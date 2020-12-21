@@ -22,6 +22,9 @@ import Skeleton from 'src/components/skeleton'
 ## Project References
 
 [Creating a new application React Native](https://reactnative.dev/docs/environment-setup#creating-a-new-application)
+
 [React Native - Animated](https://reactnative.dev/docs/animated)
+
 [React Native - Flatlist](https://reactnative.dev/docs/flatlist)
+
 [Styled Components](https://styled-components.com/)
