@@ -1,0 +1,6 @@
+module Pods_ReactNativeSkeleton_ReactNativeSkeletonTests {
+  umbrella header "Pods-ReactNativeSkeleton-ReactNativeSkeletonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
