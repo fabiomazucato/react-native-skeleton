@@ -14,7 +14,7 @@ const HomeLoading = () => {
 
 			<FlatList
 				data={[{ id: 'load0' }, { id: 'load1' }, { id: 'load2' }]}
-				keyExtractor={(placeholder) => placeholder.id}
+				keyExtractor={(item) => item.id}
 				renderItem={() => (
 					<Wrapper>
 						<Section>
