@@ -7,7 +7,7 @@ const HomeContainer = () => {
 
 	const handleTimeLoading = () => {
 		setTimeout(() => {
-			setIsloading(false)
+			// setIsloading(false)
 		}, 3000)
 	}
 
