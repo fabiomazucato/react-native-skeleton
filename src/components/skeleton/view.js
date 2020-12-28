@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { AnimatedView } from './style'
+import { AnimatedView } from './styles'
 
 const Skeleton = (props) => {
 	const {
